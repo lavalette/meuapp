@@ -1,0 +1,14 @@
+{
+    "name": "application-name",
+    "description": "application description",
+    "version": "1.0.0",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "main": "index.html",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
